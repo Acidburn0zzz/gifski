@@ -315,9 +315,9 @@ dependencies = [
 
 [[package]]
 name = "imgref"
-version = "1.9.0"
+version = "1.9.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f96e022794baa432d2f38a4da7c1ee29f513366973378f64c420f864967c0145"
+checksum = "7d6a8cd48d0dc604999b8beacfbfc2f4eb289a52af175029d4f79fb57b80c7d5"
 
 [[package]]
 name = "lazy_static"
